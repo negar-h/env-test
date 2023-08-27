@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 
-name: WorkFlow1
+name: WorkFlow2
 
 # concurrency:
 #   group: ${{ github.repository }}-concurrency-for-workflow
