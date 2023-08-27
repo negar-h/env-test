@@ -11,6 +11,7 @@ on:
     paths:
       - MyFirstFolder/**
       - '**.md'
+      - 'Dockerfile'
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
