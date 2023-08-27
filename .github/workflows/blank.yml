@@ -45,6 +45,7 @@ jobs:
         run: |
           echo Add other actions to build,
           echo test, and deploy your project.
+          echo ${{ github.workflow }}
   deploy_qa:
     # The type of runner that the job will run on
     concurrency:
