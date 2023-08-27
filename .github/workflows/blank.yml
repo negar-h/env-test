@@ -9,8 +9,8 @@ on:
     branches:
     - main
     # branches: [ "main" ]
-    paths:
-    - MyFirstFolder
+    # paths:
+    # - MyFirstFolder
   pull_request:
     branches: [ "main" ]
   # Allows you to run this workflow manually from the Actions tab
